@@ -16,7 +16,10 @@ class Snippet(models.Model):
     linenos = models.BooleanField(default=False)
     language = models.CharField(choices=LANGUAGE_CHOICES, default ="python", max_length=100)
     style = models.CharField(choices=STYLE_CHOICES, default="friendly", max_length=100)
+    
     # user is a model that is provided by the auth module. You are relating the snippets created to each user.
+    # When the referenced object is deleted, also delete the objects that have references to it (when you remove a blog post for instance, you might want to delete comments as well). SQL equivalent: CASCADE.
+    
     owner = models.ForeignKey('auth.User', related_name = "snippets", on_delete=models.CASCADE) 
     highlighted = models.TextField()
 
@@ -25,7 +28,7 @@ class Snippet(models.Model):
 
     def save(self, *args, **kwargs): # Overriding the save methods in models.Model
         lexer = get_lexer_by_name(self.language)
-        linenos = "table"if self.linenos else False 
+        linenos = "table" if self.linenos else False 
         options = {"title": self.title} if self.title else {}
         formatter = HtmlFormatter(style=self.style, linenos = linenos, full = True, **options)
         self.highlighted = highlight(self.code, lexer, formatter)

@@ -2,6 +2,9 @@
 
 from snippets.models import Snippet
 from snippets.serializers import SnippetSerializer, UserSerializer
+
+# generics are classes that implement a lot of functions that we want already, so we just inherit them.
+
 from rest_framework import generics
 from django.contrib.auth.models import User
 from rest_framework import permissions, renderers

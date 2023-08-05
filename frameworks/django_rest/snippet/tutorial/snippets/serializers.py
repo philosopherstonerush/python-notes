@@ -26,6 +26,7 @@ from django.contrib.auth.models import User
 # the same above code could be replicated with ModelSerializer class
 
 # Relationships between entities could be managed via different ways - like linking users to their snippets. 
+
 """
 Using primary keys ---> ModelSerializer is used, id is included by default.
 Using hyperlinking between entities.
