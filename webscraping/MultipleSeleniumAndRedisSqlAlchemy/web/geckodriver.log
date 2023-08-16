@@ -1,0 +1,202 @@
+1690953290988	geckodriver	INFO	Listening on 127.0.0.1:12124
+1690953294053	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "12125" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SUVARN~1\\AppData\\Local\\Temp\\rust_mozprofile8BcEEg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690953294281	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690953294346	Marionette	INFO	Listening on port 12132
+WebDriver BiDi listening on ws://127.0.0.1:12125
+Read port: 12132
+1690953294515	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:12125/devtools/browser/8c3eec1f-714d-4beb-a434-2d98ac7ae297
+1690953304416	Marionette	INFO	Stopped listening on port 12132
+Dynamically enable window occlusion 1
+1690954335512	geckodriver	INFO	Listening on 127.0.0.1:12439
+1690954338574	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "12440" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SUVARN~1\\AppData\\Local\\Temp\\rust_mozprofileG3YqH0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690954338811	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690954338867	Marionette	INFO	Listening on port 12447
+WebDriver BiDi listening on ws://127.0.0.1:12440
+Read port: 12447
+1690954339032	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:12440/devtools/browser/b12b0198-9082-4a22-86a9-d32abe143c7e
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.semrush.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.semrush.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.semrush.com."
+1690954400087	Marionette	INFO	Stopped listening on port 12447
+Dynamically enable window occlusion 1
+1690954565841	geckodriver	INFO	Listening on 127.0.0.1:12638
+1690954568943	mozrunner::runner	INFO	Running command: "C:\\P1690954569206	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "12643" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SUVARN~1\\AppData\\Local\\Temp\\rust_mozprofile5r6NtW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690954569458	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690954569519	Marionette	INFO	Listening on port 12660
+WebDriver BiDi listening on ws://127.0.0.1:12643
+Read port: 12660
+1690954569656	RemoteAgent	WADevTools listening on ws://127.0.0.1:12639/devtools/browser/DevTools listening on ws://127.0.0.1:1JavaScript error: resource://gre/modules/LoginManagerChild.sJavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure coconsole.warn: services.settings: Ignoring preference overridconsole.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefineconsole.warn: LoginRecipes: "Falling back to a synchronous mconsole.warn: LoginRecipes: "Falling baconsole.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.semrush.com."
+console.warn: LoginRecipes: "Falling back to a synchronous m1690954665468	Marionette	INFO	Stopped l1690954667284	Marionette	INFO	Stopped listening on port 12652
+Dynamically enable window occlusion 1
+1690955249077	geckodriver	INFO	Listening on 127.0.0.1:13007
+1690955252153	mozrunner::runner	INFO	Running command: "C:\\P1690955252419	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "13013" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SUVARN~1\\AppData\\Local\\Temp\\rust_mozprofileLGZPpH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690955252670	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690955252734	Marionette	INFO	Listening on port 13033
+WebDriver BiDi listening on ws://127.0.0.1:13013
+Read port: 13033
+1690955252792	RemoteAgent	WADevTools listening on ws://127.0.0.1:13008/devtools/browser/054db5e7-232e-441c-809f-b13d80e3fd3f
+console.warn: services.settings: Ignoring preference overridconsole.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefineconsole.warn: LoginRecipes: "Falling back to a synchronous mconsole.warn: LoginRecipes: "Falling ba1690955706871	Marionette	INFO	Stopped listening on port 13022
+Dynamically enable window occlusion 1
+to a synchronous message for: https://www.semrush.com."
+[Parent 22340, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:793
+1690955642646	Marionette	INFO	Stopped listening on port 13033
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+"--remote-debugging-port" "13302" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SUVARN~1\\AppData\\Local\\Temp\\rust_mozprofileFUhFhG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690955432205	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690955432260	Marionette	INFO	Listening on port 13309
+WebDriver BiDi listening on ws://127.0.0.1:13302
+Read port: 13309
+1690955432433	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:13302/devtools/browser/f1ff870e-eb50-4788-8fa7-116dc2afdfdd
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.semrush.com."
+1690955707947	Marionette	INFO	Stopped listening on port 13309
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "13439" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SUVARN~1\\AppData\\Local\\Temp\\rust_mozprofileiMvNhC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690955661126	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690955661184	Marionette	INFO	Listening on port 13449
+WebDriver BiDi listening on ws://127.0.0.1:13439
+Read port: 13449
+1690955661363	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:13439/devtools/browser/1690955665273	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "13461" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SUVARN~1\\AppData\\Local\\Temp\\rust_mozprofileKJVY2K"
+console.warn: services.settings: Ignoring preference override of remote settings server
+cconsole.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.semrush.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.semrush.com."
+1690955727598	Marionette	INFO	Stopped listening on port 13449
+Dynamically enable window occlusion 1
+ort: 13539
+1690955665725	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:13461/devtools/browser/1fb08855-413f-4e3c-ac3e-f8348ae20725
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.semrush.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.semrush.com."
+1690955728314	Marionette	INFO	Stopped listening on port 13539
+Dynamically enable window occlusion 1
+[Parent 8048, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:793
+1690958970471	geckodriver	INFO	Listening on 127.0.0.1:14365
+1690958973530	mozrunner::runner	INFO	Running command: "C:\\P1690958973611	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "14370" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Usconsole.warn: services.settings: Ignoring preference overridconsole.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by1690958973769	Marionette	INFO	Marionette enabled
+Dynamicall1690958973855	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690958973916	Marionette	INFO	Listening on port 14385
+WebDriv1690958974008	RemoteAgent	WARN	TLS certificate errors will b1690958974094	RemoteAgent	WADevTools listening on ws://127.0.0.1:14366/devtools/browser/aaf196a9-f7c8-4754-acc8-c521070e7623
+console.warn: services.settings: Ignoring preference overridconsole.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefine1690959038853	Marionette	INFO	Stopped listening on port 14381690959039516	Marionette	INFO	Stopped listening on port 14385
+Dynamically enable window occlusion 1
+1690959637451	geckodriver	INFO	Listening on 127.0.0.1:14909
+1690959640506	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "14910" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SUVARN~1\\AppData\\Local\\Temp\\rust_mozprofileCfQOuP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690959640760	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690959640827	Marionette	INFO	Listening on port 14923
+WebDriver BiDi listening on ws://127.0.0.1:14910
+Read port: 14923
+1690959640975	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:14907/devtools/browser/c1a104dd-dd22-4135-8add-6d7767a334f6
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.semrush.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.semrush.com."
+1690959788687	Marionette	INFO	Stopped listening on port 14923
+Dynamically enable window occlusion 1
+defined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.semrush.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.semrush.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1690959789688	Marionette	INFO	Stopped listening on port 14922
+Dynamically enable window occlusion 1
+1690961029172	geckodriver	INFO	Listening on 127.0.0.1:1419
+1690961032259	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1420" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SUVARN~1\\AppData\\Local\\Temp\\rust_mozprofilePTF78Y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690961032497	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690961032550	Marionette	INFO	Listening on port 1427
+WebDriver BiDi listening on ws://127.0.0.1:1420
+Read port: 1427
+1690961032712	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:1420/devtools/browser/48cff196-c3d9-49ac-9850-45650da21ee4
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.semrush.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.semrush.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1690961163879	Marionette	INFO	Stopped listening on port 1427
+Dynamically enable window occlusion 1
+1690961477833	geckodriver	INFO	Listening on 127.0.0.1:1617
+1690961480909	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1618" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SUVARN~1\\AppData\\Local\\Temp\\rust_mozprofileANvnNU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690961481152	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690961481207	Marionette	INFO	Listening on port 1625
+WebDriver BiDi listening on ws://127.0.0.1:1618
+Read port: 1625
+1690961481364	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:1618/devtools/browser/45c6008b-694f-4398-8bf5-8be2c2dae43b
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.semrush.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.semrush.com."
+JavaScript error: https://www.semrush.com/__static__/webpack/sentry.e5cb51e2.js, line 1: TypeError: e.recordDroppedEvent is not a function
+JavaScript error: https://www.semrush.com/__static__/webpack/sentry.e5cb51e2.js, line 1: TypeError: e.recordDroppedEvent is not a function
+1690961625697	Marionette	INFO	Stopped listening on port 1625
+Dynamically enable window occlusion 1
+1690968870247	geckodriver	INFO	Listening on 127.0.0.1:2933
+1690968873292	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2934" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SUVARN~1\\AppData\\Local\\Temp\\rust_mozprofilexlWgqi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690968873530	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690968873584	Marionette	INFO	Listening on port 2941
+WebDriver BiDi listening on ws://127.0.0.1:2934
+Read port: 2941
+1690968873755	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:2934/devtools/browser/1b299331-6416-41fb-8fda-1193340e9ede
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
