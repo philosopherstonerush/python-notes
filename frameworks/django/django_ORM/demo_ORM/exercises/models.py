@@ -6,8 +6,12 @@ class Person(models.Model):
     date_of_birth = models.DateField()
 
     class Meta:
-        ordering = ["date_of_birth"]
         abstract = True
 
 class Employee(Person):
     salary = models.IntegerField()
+
+class Clerks(Person):
+    typing_speed = models.IntegerField()
+
+

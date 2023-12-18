@@ -3,7 +3,13 @@ from snippets.models import Snippet, LANGUAGE_CHOICES, STYLE_CHOICES
 from django.contrib.auth.models import User
 
 
-# Serializers control the database and store and retrieve from it.
+"""
+
+Serializers convert one datatype to another.
+
+These serializers manipulate data in the database. There can be serializers for both request and response.
+
+"""
 
 # class SnippetSerializer(serializers.Serializer):
 #     id = serializers.IntegerField(read_only=True)
@@ -23,16 +29,17 @@ from django.contrib.auth.models import User
 #         instance.save()
 #         return instance
 
-# the same above code could be replicated with ModelSerializer class
 
-# Relationships between entities could be managed via different ways - like linking users to their snippets. 
 
 """
-Using primary keys ---> ModelSerializer is used, id is included by default.
-Using hyperlinking between entities.
-Using a unique identifying slug field on the related entity.
-Using the default string representation of the related entity.
-Nesting the related entity inside the parent representation.
+the same above code could be replicated with ModelSerializer class (serializer.ModelSerializer)
+
+Relationships between entities could be managed via different ways - like linking users to their snippets. 
+1)Using primary keys ---> ModelSerializer is used, id is included by default.
+2)Using hyperlinking between entities.
+3)Using an unique identifying slug field on the related entity.
+4)Using the default string representation of the related entity.
+5)Nesting the related entity inside the parent representation.
 Some other custom representation.
 
 """
